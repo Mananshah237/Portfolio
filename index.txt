@@ -1,1 +1,101 @@
+Manan Shah - Personal Portfolio
+Sidebar
 
+    Name: Manan Shah
+    Title: Software Engineer
+
+Show Contacts
+
+    Email: mxs9638@mavs.uta.edu
+    Phone: +1 (682) 365-0475
+    Location: Arlington, Texas, USA
+
+Navbar
+
+    About
+    Resume
+    Portfolio
+    Contact
+
+About
+About me
+
+I'm a Web Developer from Arlington, Texas, with experience in developing responsive and user-friendly websites. I specialize in front-end development using HTML, CSS, and JavaScript, and have worked on several projects that showcase my technical skills and creativity.
+Services
+
+What I am good at
+
+    Game Development: UI/UX and front-end
+    Mobile apps: Developing applications for Android.
+    Game Development: Core application of OOP and technical visuals in CLI.
+
+Resume
+Education
+
+    University of Texas at Arlington
+    Expected Graduation: May 2026
+    Degree: B.S. in Computer Science and Technology (Honors) - GPA: 3.8
+
+Experience
+
+    PLTL Leader for Computer Science
+    Dates: Jan 2024 - Present
+    Description: Facilitated weekly small group PLTL sessions for Computer Science, assisting 16 - 20 students every week in mastering concepts and problem-solving skills in Computer Science.
+
+    Student Assistant, UTA Office of Admissions
+    Dates: Mar. 2023 - Present
+    Description: Built rapport with thousands of students and parents by maintaining an approachable, helpful demeanor and addressing questions/concerns thoroughly and accurately.
+
+    PLTL Leader for Math, Academic Success Centre
+    Dates: Aug. 2023 - Jan 2023
+    Description: Helped the incoming freshmen in their respective pre-calc classes and sharpened their basics and guided them with the advances with mathematical concepts.
+
+    Freelance Web Developer
+    Dates: May 2022 - Aug. 2023
+    Description: Developed responsive websites for clients using HTML, CSS, and JavaScript. Examples include KB TMT and Revant Offshore.
+
+Skills
+
+    Web Development/Front-end: 80%
+    Back-end: 70%
+    Game Development: 90%
+    Problem-Solving: 85%
+
+Portfolio
+Categories
+
+    All
+    Game Development
+    Applications
+    Web development
+
+Projects
+
+    Roving Robot
+    Category: Game Development
+    Link: Roving Robot GitHub
+
+    Library Management System
+    Category: Applications
+    Link: Library Management System GitHub
+
+    Service Request System
+    Category: Applications
+    Link: Service Request System GitHub
+
+    KB TMT
+    Category: Web development
+    Link: KB TMT
+
+    Revant Offshore
+    Category: Web development
+    Link: Revant Offshore
+
+Contact
+Contact Form
+
+    Full Name
+    Email Address
+    Your Message
+
+Send Message
